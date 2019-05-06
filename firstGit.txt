@@ -1,2 +1,3 @@
 this is my first git project!
 git gui
+git gui push
